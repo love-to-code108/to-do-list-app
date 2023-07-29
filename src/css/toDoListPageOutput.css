@@ -1,0 +1,16 @@
+.toDoListPageOutput{
+    width: 24rem;
+
+    display: flex;
+    justify-content: start;
+
+    padding: 0.2rem;
+}
+
+.mar-x{
+    margin: 0rem 0.4rem;
+}
+
+.pad-all {
+    padding: 0.1rem 0.6rem;
+}
