@@ -1,5 +1,6 @@
 .toDoListPageOutput{
-    width: 24rem;
+    min-width: 24rem;
+    width: 80%;
 
     display: flex;
     justify-content: start;
