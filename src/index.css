@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+:root {
+    --ff--sora:'Sora', sans-serif;
+}
+
+
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+p {
+    font-family: var(--ff--sora);
+}
+
+#root {
+    background-color: red;
+
+    width: 100%;
+    height: 100rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
